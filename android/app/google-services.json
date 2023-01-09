@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "209744150328",
+    "project_id": "artiz-7d964",
+    "storage_bucket": "artiz-7d964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209744150328:android:5031b39667d06668980bcd",
+        "android_client_info": {
+          "package_name": "com.mycompany.depaniko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209744150328-n2rmrj37aeg3ep6qeru00m4fk382luoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.depaniko",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "209744150328-h1kdh82bs9fgc3mcg38doroafq7c9qog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGA9ADMoHFGFyFAMGovYyRG1da9VjMHhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209744150328-h1kdh82bs9fgc3mcg38doroafq7c9qog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209744150328-3533b601litqbdf182opcf0hrfcdpbhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.depaniko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
